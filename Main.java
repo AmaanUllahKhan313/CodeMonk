@@ -2,8 +2,7 @@ package co.cantina.jooq.example;/***gggggg***/
 
 import static co.cantina.jooq.example.Sequences.AUTHOR_SEQ;
 import static co.cantina.jooq.example.Sequences.BOOK_SEQ;
-import static co.cantina.jooq.example.Tables.AUTHOR;
-import static co.cantina.jooq.example.Tables.BOOK;
+K;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.time.ZonedDateTime;
