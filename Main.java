@@ -1,4 +1,4 @@
-package co.cantina.jooq.example;/******/
+package co.cantina.jooq.example;/***gggggg***/
 
 import static co.cantina.jooq.example.Sequences.AUTHOR_SEQ;
 import static co.cantina.jooq.example.Sequences.BOOK_SEQ;
