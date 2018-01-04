@@ -22,9 +22,7 @@ public class Main {
                .set(AUTHOR.AUTHOR_ID, evansId)
                .set(AUTHOR.FULL_NAME, "Eric Evans"),
                 
-            dsl.insertInto(AUTHOR)
-               .set(AUTHOR.AUTHOR_ID, vernonId)
-               .set(AUTHOR.FULL_NAME, "Vaughn Vernon"),
+         
                 
             dsl.insertInto(BOOK)
                .set(BOOK.BOOK_ID, dsl.nextval(BOOK_SEQ))
